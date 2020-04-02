@@ -1,6 +1,6 @@
 # About
 
-calc-wx is a sample calculation application built using wxWidgets.
+calc-wx is a sample calculator application built using wxWidgets.
 
 # Build
 
